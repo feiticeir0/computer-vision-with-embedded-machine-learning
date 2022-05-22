@@ -11,4 +11,8 @@ https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning/ho
 This script captures 50 images into a directory, with names from 0 to 49, bmp images. 
 It then converts them to grayscale
 
+#### Here's the RPI used to capture the datasets
 
+![RPI with HQ Camera 1](https://github.com/feiticeir0/computer-vision-with-embedded-machine-learning/blob/main/images/rpi1.jpg)
+
+![RPI with HQ Camera 2](https://github.com/feiticeir0/computer-vision-with-embedded-machine-learning/blob/main/images/rpi2.jpg)
